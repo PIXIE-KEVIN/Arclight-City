@@ -44,7 +44,7 @@
 		},
 		"attack_group": {
 			"description": {
-				"eng": "Attacks the enemy for ${amount}",
+				"eng": "Attacks tihe enemy for ${amount}",
 				"trans": "Ataca al enemigo por ${amount}"
 			}
 		},
