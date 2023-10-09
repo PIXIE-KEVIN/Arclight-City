@@ -7761,7 +7761,7 @@
 		"upgradedEpic": {
 			"announcement": {
 				"eng": "${playerName} upgraded ${item}!",
-				"trans": "¡${playerName} ha mejorado ${item}!"
+				"trans": "¡${playeriName} ha mejorado ${item}!"
 			}
 		}
 	}
